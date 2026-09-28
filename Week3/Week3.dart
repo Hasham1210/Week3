@@ -78,7 +78,7 @@ int sumDigits(int n) {
 }
 
 
-//Part 3: 3.4
+//Part 3: 3.4cls
 
 Map<String, int> buildStock() {
   return {
